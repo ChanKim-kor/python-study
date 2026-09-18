@@ -9,4 +9,14 @@ for i in range (len(currents)):
 
 print(f"Maximum current: {max_current}A")
 print(f"Average current: {avg}A")
-print(f"Number above average: {num_above_avg}")
+
+"""chatGPT's note
+for current in currents:
+    if current > avg:
+        num_above_avg += 1
+
+in Python, you can iterate directly over the elements of a list without needing to use an **index**. This makes the code cleaner and more readable.
+
+num_above_avg = sum(1 for current in currents if current > average_current)
+The code above is a more Pythonic way to count but for now it is not essential.
+"""

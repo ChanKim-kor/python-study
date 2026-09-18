@@ -9,3 +9,11 @@ for i in equipment:
     print(f"{i} : {equipment[i]} kW")
 
 print(f"total rated power: {sum(equipment.values())} kW")
+
+"""chatGPT's note
+for name, power in equipment.items(): #In this way, you can iterate over both the keys and values of the dictionary at the same time.
+    print(f"{name}: {power} kW")
+
+
+print(f"Total rated power: {sum(equipment.values())} kW")
+"""
