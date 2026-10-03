@@ -64,7 +64,7 @@ Use the CP-31 order as the prefix so the folder stays sortable.
 
 | Rating | Solved | Total | Progress |
 |---:|---:|---:|---|
-| 800 | 0 | 31 | 0% |
+| 800 | 1 | 31 | 3.2% |
 | 900 | 0 | 31 | 0% |
 | 1000 | 0 | 31 | 0% |
 | 1100 | 0 | 31 | 0% |
@@ -76,13 +76,13 @@ Use the CP-31 order as the prefix so the folder stays sortable.
 | 1700 | 0 | 31 | 0% |
 | 1800 | 0 | 31 | 0% |
 | 1900 | 0 | 31 | 0% |
-| **Total** | **0** | **372** | **0%** |
+| **Total** | **1** | **372** | **0.27%** |
 
 ## 800
 
 | # | Status | Problem | Codeforces | Time | Attempts | Review |
 |---:|:---:|---|---|---:|---:|---|
-| 01 | ✅ | Halloumi Boxes | [1903A](https://codeforces.com/problemset/problem/1903/A) | 46ms | 1 |  |
+| 01 | ✅ | Halloumi Boxes | [1903A](https://codeforces.com/problemset/problem/1903/A) | 10m | 1 |  |
 | 02 | ⬜ | Line Trip | [1901A](https://codeforces.com/problemset/problem/1901/A) |  |  |  |
 | 03 | ⬜ | Cover in Water | [1900A](https://codeforces.com/problemset/problem/1900/A) |  |  |  |
 | 04 | ⬜ | Game with Integers | [1899A](https://codeforces.com/problemset/problem/1899/A) |  |  |  |
