@@ -82,7 +82,7 @@ Use the CP-31 order as the prefix so the folder stays sortable.
 
 | # | Status | Problem | Codeforces | Time | Attempts | Review |
 |---:|:---:|---|---|---:|---:|---|
-| 01 | ⬜ | Halloumi Boxes | [1903A](https://codeforces.com/problemset/problem/1903/A) |  |  |  |
+| 01 | ✅ | Halloumi Boxes | [1903A](https://codeforces.com/problemset/problem/1903/A) | 46ms | 1 |  |
 | 02 | ⬜ | Line Trip | [1901A](https://codeforces.com/problemset/problem/1901/A) |  |  |  |
 | 03 | ⬜ | Cover in Water | [1900A](https://codeforces.com/problemset/problem/1900/A) |  |  |  |
 | 04 | ⬜ | Game with Integers | [1899A](https://codeforces.com/problemset/problem/1899/A) |  |  |  |
